@@ -1,0 +1,270 @@
+ [
+		{
+			"_id" : "GUJARATI",
+			"total" : 1
+		},
+		{
+			"_id" : "LAOTHIAN",
+			"total" : 1
+		},
+		{
+			"_id" : "TIBETAN",
+			"total" : 4
+		},
+		{
+			"_id" : "KANNADA",
+			"total" : 1
+		},
+		{
+			"_id" : "BASQUE",
+			"total" : 55
+		},
+		{
+			"_id" : "TELUGU",
+			"total" : 1
+		},
+		{
+			"_id" : "ALBANIAN",
+			"total" : 44
+		},
+		{
+			"_id" : "Ignore",
+			"total" : 68
+		},
+		{
+			"_id" : "GALICIAN",
+			"total" : 64
+		},
+		{
+			"_id" : "TAMIL",
+			"total" : 9
+		},
+		{
+			"_id" : "ARMENIAN",
+			"total" : 18
+		},
+		{
+			"_id" : "HINDI",
+			"total" : 15
+		},
+		{
+			"_id" : "AFRIKAANS",
+			"total" : 29
+		},
+		{
+			"_id" : "FRENCH",
+			"total" : 16596
+		},
+		{
+			"_id" : "SERBIAN",
+			"total" : 22
+		},
+		{
+			"_id" : "ROMANIAN",
+			"total" : 583
+		},
+		{
+			"_id" : "NORWEGIAN",
+			"total" : 1702
+		},
+		{
+			"_id" : "SWAHILI",
+			"total" : 7
+		},
+		{
+			"_id" : "IRISH",
+			"total" : 11
+		},
+		{
+			"_id" : "FINNISH",
+			"total" : 582
+		},
+		{
+			"_id" : "BENGALI",
+			"total" : 8
+		},
+		{
+			"_id" : "SWEDISH",
+			"total" : 3397
+		},
+		{
+			"_id" : "SPANISH",
+			"total" : 14704
+		},
+		{
+			"_id" : "SLOVENIAN",
+			"total" : 159
+		},
+		{
+			"_id" : "BURMESE",
+			"total" : 3
+		},
+		{
+			"_id" : "BULGARIAN",
+			"total" : 140
+		},
+		{
+			"_id" : "CATALAN",
+			"total" : 390
+		},
+		{
+			"_id" : "RUSSIAN",
+			"total" : 2475
+		},
+		{
+			"_id" : "CROATIAN",
+			"total" : 350
+		},
+		{
+			"_id" : "ESTONIAN",
+			"total" : 104
+		},
+		{
+			"_id" : "SINHALESE",
+			"total" : 1
+		},
+		{
+			"_id" : "WELSH",
+			"total" : 25
+		},
+		{
+			"_id" : "VIETNAMESE",
+			"total" : 2218
+		},
+		{
+			"_id" : "HEBREW",
+			"total" : 634
+		},
+		{
+			"_id" : "MALAY",
+			"total" : 241
+		},
+		{
+			"_id" : "MACEDONIAN",
+			"total" : 36
+		},
+		{
+			"_id" : "DANISH",
+			"total" : 2090
+		},
+		{
+			"_id" : "GREEK",
+			"total" : 640
+		},
+		{
+			"_id" : "Unknown",
+			"total" : 11822
+		},
+		{
+			"_id" : "INDONESIAN",
+			"total" : 374
+		},
+		{
+			"_id" : "Japanese",
+			"total" : 5221
+		},
+		{
+			"_id" : "ARABIC",
+			"total" : 1641
+		},
+		{
+			"_id" : "GEORGIAN",
+			"total" : 24
+		},
+		{
+			"_id" : "ChineseT",
+			"total" : 2307
+		},
+		{
+			"_id" : "ICELANDIC",
+			"total" : 92
+		},
+		{
+			"_id" : "UKRAINIAN",
+			"total" : 35
+		},
+		{
+			"_id" : "AZERBAIJANI",
+			"total" : 20
+		},
+		{
+			"_id" : "DUTCH",
+			"total" : 7137
+		},
+		{
+			"_id" : "CZECH",
+			"total" : 917
+		},
+		{
+			"_id" : "TAGALOG",
+			"total" : 45
+		},
+		{
+			"_id" : "THAI",
+			"total" : 1936
+		},
+		{
+			"_id" : "URDU",
+			"total" : 42
+		},
+		{
+			"_id" : "LITHUANIAN",
+			"total" : 170
+		},
+		{
+			"_id" : "POLISH",
+			"total" : 1830
+		},
+		{
+			"_id" : "Korean",
+			"total" : 3351
+		},
+		{
+			"_id" : "PERSIAN",
+			"total" : 173
+		},
+		{
+			"_id" : "GERMAN",
+			"total" : 20896
+		},
+		{
+			"_id" : "ENGLISH",
+			"total" : 597832
+		},
+		{
+			"_id" : "Chinese",
+			"total" : 4450
+		},
+		{
+			"_id" : "ITALIAN",
+			"total" : 10240
+		},
+		{
+			"_id" : "TURKISH",
+			"total" : 4670
+		},
+		{
+			"_id" : "HUNGARIAN",
+			"total" : 1005
+		},
+		{
+			"_id" : "BELARUSIAN",
+			"total" : 1
+		},
+		{
+			"_id" : "MALTESE",
+			"total" : 3
+		},
+		{
+			"_id" : "LATVIAN",
+			"total" : 71
+		},
+		{
+			"_id" : "SLOVAK",
+			"total" : 357
+		},
+		{
+			"_id" : "PORTUGUESE",
+			"total" : 8601
+		}
+	]

@@ -1,0 +1,23 @@
+%Apps,Number of Apps,Topic#,W1,W2,W3,W4,W5,W6,W7,W8,W9,W10
+0.7,418635,17,0.008*weather , 0.006*information , 0.005*travel , 0.005*city , 0.005*guide , 0.004*location , 0.004*application , 0.004*find , 0.004*time , 0.003*local
+0.2,148366,18,0.007*file , 0.007*photo , 0.006*data , 0.006*iphone , 0.005*application , 0.005*clock , 0.005*text , 0.005*support , 0.004*device , 0.004*send
+0,531,0,0.049*roaming , 0.039*football , 0.030*conversion , 0.027*league , 0.026*covering , 0.019*installed , 0.015*expense , 0.012*measuring , 0.009*testing , 0.009*sporting
+0,1324,1,0.022*measurement , 0.022*keyboard , 0.020*hourly , 0.018*openstreetmap , 0.016*metro , 0.014*port , 0.013*skin , 0.012*cell , 0.010*timing , 0.009*battery
+0,4483,2,0.046*forecast , 0.033*subscription , 0.015*translator , 0.013*converter , 0.013*rental , 0.013*account , 0.013*chat , 0.012*issue , 0.010*phrasebook , 0.010*current
+0,1713,3,0.011*transfer , 0.009*amount , 0.007*frequency , 0.007*tracker , 0.006*configure , 0.006*venue , 0.006*celsius , 0.006*coordinate , 0.005*unit , 0.005*schedule
+0,1368,4,0.046*golf , 0.042*station , 0.021*radio , 0.019*tweet , 0.018*resort , 0.017*contributed , 0.014*configuration , 0.011*tennis , 0.010*precise , 0.009*hole
+0,929,5,0.021*paste , 0.016*clipboard , 0.016*prayer , 0.013*marker , 0.013*estimate , 0.012*bible , 0.012*layer , 0.012*altitude , 0.010*grid , 0.008*church
+0,343,6,0.039*attraction , 0.038*flashlight , 0.029*monitor , 0.027*backup , 0.023*accident , 0.018*accuracy , 0.015*checking , 0.014*finder , 0.011*appointment , 0.011*specify
+0,1133,7,0.011*storm , 0.010*hurricane , 0.010*basketball , 0.010*morse , 0.009*severity , 0.008*trail , 0.008*waste , 0.007*railway , 0.007*operator , 0.006*news
+0,601,8,0.079*password , 0.036*property , 0.019*soccer , 0.018*wireless , 0.016*average , 0.011*estate , 0.010*binary , 0.010*informed , 0.010*hong , 0.010*domain
+0,1606,9,0.026*calculate , 0.020*calculator , 0.019*taxi , 0.013*earthquake , 0.011*input , 0.010*stats , 0.009*bluetooth , 0.009*login , 0.009*countdown , 0.008*calculates
+0,732,10,0.020*insurance , 0.015*augmented , 0.014*police , 0.010*torch , 0.009*reality , 0.009*operate , 0.008*snow , 0.007*slow , 0.007*observation , 0.007*priority
+0,727,11,0.014*tournament , 0.014*warning , 0.013*severe , 0.013*announce , 0.011*fish , 0.011*strobe , 0.008*warranty , 0.007*glance , 0.007*pic , 0.007*hospital
+0,2777,12,0.025*alarm , 0.022*hotel , 0.017*alert , 0.010*timer , 0.009*shopping , 0.009*virtual , 0.009*restaurant , 0.008*indicator , 0.008*wallpaper , 0.008*satellite
+0,1138,13,0.038*battery , 0.032*map , 0.018*schedule , 0.014*utility , 0.011*news , 0.011*subway , 0.010*vector , 0.010*graph , 0.009*arrival , 0.008*driver
+0,524,14,0.088*destination , 0.036*currency , 0.031*fuel , 0.025*tourist , 0.019*travelling , 0.016*parameter , 0.013*nearby , 0.012*attach , 0.010*accurately , 0.010*helper
+0,426,15,0.052*secure , 0.022*bubble , 0.014*recorder , 0.012*horse , 0.011*compose , 0.010*proof , 0.010*collage , 0.009*noise , 0.009*alcohol , 0.009*blow
+0,735,16,0.048*temperature , 0.023*unit , 0.017*statistic , 0.013*fahrenheit , 0.013*tide , 0.010*generator , 0.008*lightning , 0.008*agent , 0.008*surveillance , 0.008*calculating
+0,754,19,0.039*radar , 0.039*airport , 0.015*landmark , 0.013*departure , 0.013*walking , 0.012*itinerary , 0.011*nightlife , 0.011*route , 0.011*transportation , 0.010*snooze
+0,2882,20,0.015*locates , 0.014*parked , 0.014*multi , 0.014*traveller , 0.012*tourist , 0.011*quicker , 0.008*smoother , 0.007*islamic , 0.007*dubai , 0.006*costly
+0,6105,21,0.008*reservation , 0.007*memo , 0.006*mail , 0.006*item , 0.006*quiz , 0.006*formula , 0.006*holiday , 0.006*input , 0.006*default , 0.006*solar

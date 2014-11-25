@@ -1,0 +1,134 @@
+[
+		{
+			"_id" : [
+				"Utilities"
+			],
+			"total" : 42498
+		},
+		{
+			"_id" : [
+				"Navigation"
+			],
+			"total" : 10344
+		},
+		{
+			"_id" : [
+				"Medical"
+			],
+			"total" : 16875
+		},
+		{
+			"_id" : [
+				"Weather"
+			],
+			"total" : 3080
+		},
+		{
+			"_id" : [
+				"Book"
+			],
+			"total" : 26712
+		},
+		{
+			"_id" : [
+				"Music"
+			],
+			"total" : 28101
+		},
+		{
+			"_id" : [
+				"Lifestyle"
+			],
+			"total" : 56100
+		},
+		{
+			"_id" : [
+				"Health & Fitness"
+			],
+			"total" : 20042
+		},
+		{
+			"_id" : [
+				"Productivity"
+			],
+			"total" : 22125
+		},
+		{
+			"_id" : [
+				"Games"
+			],
+			"total" : 139528
+		},
+		{
+			"_id" : [
+				"Travel"
+			],
+			"total" : 41196
+		},
+		{
+			"_id" : [
+				"Food & Drink"
+			],
+			"total" : 13833
+		},
+		{
+			"_id" : [
+				"Entertainment"
+			],
+			"total" : 61167
+		},
+		{
+			"_id" : [
+				"Sports"
+			],
+			"total" : 24203
+		},
+		{
+			"_id" : [
+				"Social Networking"
+			],
+			"total" : 13232
+		},
+		{
+			"_id" : [
+				"Finance"
+			],
+			"total" : 17609
+		},
+		{
+			"_id" : [
+				"Business"
+			],
+			"total" : 55040
+		},
+		{
+			"_id" : [
+				"Education"
+			],
+			"total" : 75675
+		},
+		{
+			"_id" : [
+				"Photo & Video"
+			],
+			"total" : 20840
+		},
+		{
+			"_id" : [
+				"News"
+			],
+			"total" : 18254
+		},
+		{
+			"_id" : [
+				"Reference"
+			],
+			"total" : 21787
+		},
+		{
+			"_id" : [
+				"Catalogs"
+			],
+			"total" : 4450
+		}
+	]

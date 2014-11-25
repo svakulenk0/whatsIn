@@ -1,0 +1,23 @@
+%Apps,Number of Apps,Topic#,W1,W2,W3,W4,W5,W6,W7,W8,W9,W10
+12.4,74086,14,0.051*game , 0.013*play , 0.011*level , 0.007*graphic , 0.006*score , 0.006*friend , 0.006*time , 0.006*make , 0.006*free , 0.005*like
+8,47944,7,0.054*photo , 0.024*share , 0.021*image , 0.020*friend , 0.018*picture , 0.013*facebook , 0.012*camera , 0.011*save , 0.011*create , 0.010*make
+6.9,41367,20,0.016*support , 0.015*file , 0.011*user , 0.010*iphone , 0.010*device , 0.010*video , 0.010*application , 0.010*ipad , 0.009*email , 0.009*text
+6.5,38862,9,0.065*game , 0.026*puzzle , 0.024*level , 0.019*play , 0.012*player , 0.011*number , 0.011*time , 0.009*score , 0.009*challenge , 0.008*different
+6.4,38279,3,0.025*time , 0.014*need , 0.014*track , 0.012*want , 0.012*list , 0.011*keep , 0.010*make , 0.009*know , 0.009*help , 0.008*find
+6.2,36929,6,0.041*mobile , 0.022*access , 0.020*news , 0.015*account , 0.014*view , 0.014*latest , 0.013*service , 0.011*contact , 0.011*call , 0.011*free
+5.1,30698,12,0.040*child , 0.025*kid , 0.017*story , 0.015*animal , 0.013*learn , 0.013*book , 0.010*learning , 0.010*sound , 0.009*help , 0.009*baby
+5,29906,2,0.018*information , 0.016*business , 0.014*product , 0.011*service , 0.008*company , 0.008*application , 0.007*professional , 0.007*provides , 0.006*provide , 0.006*management
+4.4,26219,0,0.041*event , 0.017*information , 0.013*school , 0.012*date , 0.012*calendar , 0.011*view , 0.009*schedule , 0.009*find , 0.008*social , 0.008*conference
+4.2,25240,17,0.012*help , 0.010*life , 0.009*people , 0.007*exercise , 0.006*video , 0.006*workout , 0.006*bible , 0.006*training , 0.006*body , 0.005*daily
+3.9,23155,11,0.028*location , 0.026*search , 0.017*find , 0.016*information , 0.016*offline , 0.015*map , 0.014*place , 0.012*feature , 0.011*internet , 0.011*application
+3.7,22237,16,0.023*question , 0.019*test , 0.017*student , 0.012*study , 0.009*practice , 0.009*medical , 0.009*answer , 0.008*help , 0.008*learning , 0.007*application
+3.6,21578,5,0.023*button , 0.022*color , 0.017*screen , 0.016*number , 0.012*touch , 0.010*change , 0.009*right , 0.009*finger , 0.008*select , 0.008*move
+3.5,20963,10,0.045*music , 0.027*sound , 0.024*radio , 0.020*song , 0.020*play , 0.015*audio , 0.014*listen , 0.012*alarm , 0.011*station , 0.010*favorite
+3.3,19694,13,0.016*calculator , 0.011*real , 0.011*property , 0.010*value , 0.009*calculate , 0.009*data , 0.009*calculation , 0.008*chart , 0.008*rate , 0.007*estate
+3.3,19445,4,0.021*guide , 0.017*city , 0.014*travel , 0.011*tour , 0.008*country , 0.008*best , 0.006*world , 0.006*place , 0.006*state , 0.006*history
+3.1,18628,21,0.074*word , 0.027*language , 0.024*english , 0.016*learn , 0.014*phrase , 0.013*chinese , 0.012*dictionary , 0.012*learning , 0.010*vocabulary , 0.010*letter
+2.4,14561,19,0.051*card , 0.024*player , 0.023*team , 0.022*game , 0.014*sport , 0.014*christmas , 0.012*score , 0.012*golf , 0.011*play , 0.010*football
+2.3,13604,8,0.029*food , 0.019*recipe , 0.012*restaurant , 0.010*make , 0.010*wine , 0.009*deal , 0.009*slot , 0.009*find , 0.008*best , 0.008*reward
+2.1,12499,15,0.014*book , 0.013*movie , 0.009*world , 0.008*know , 0.007*year , 0.007*make , 0.007*film , 0.006*major , 0.006*love , 0.005*fashion
+2,11701,1,0.010*enemy , 0.009*control , 0.009*space , 0.008*battle , 0.008*weapon , 0.006*world , 0.006*different , 0.006*take , 0.006*fire , 0.006*power
+1.7,10237,18,0.046*subscription , 0.030*issue , 0.026*current , 0.021*magazine , 0.019*account , 0.017*purchase , 0.017*weather , 0.012*automatically , 0.011*within , 0.011*available
